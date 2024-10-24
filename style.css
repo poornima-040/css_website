@@ -1,0 +1,111 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.overall {
+    height: 712px;
+    background-image: url(hero-carousel-3.jpg);
+    color: white;
+}
+
+.num,
+.time {
+    float: left;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.time {
+    margin-left: 100px;
+}
+
+.btn {
+    float: right;
+    height: 48px;
+    width: 200px;
+    background-color: #ffb03b;
+    color: white;
+    border-radius: 20px;
+    margin-right: 135px;
+}
+
+.frstcontent {
+    /* background-color: red; */
+    padding-top: 10px;
+    height: 90px;
+}
+
+.secondcontent {
+    /* background-color: blue; */
+    height: 100px;
+
+}
+
+.logo {
+    float: left;
+    margin-left: 100px;
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.menus {
+
+    font-size: 20pxx;
+    display: flex;
+
+    list-style-type: none;
+    float: right;
+    margin-right: 150px;
+    padding-top: 10px;
+}
+
+li {
+    margin-left: 50px;
+
+}
+
+.center {
+    /* background-color: blue; */
+    font-size: 30px;
+    text-align: center;
+}
+
+.frstpara {
+    /* background-color: red; */
+    text-align: center;
+    width: 90%;
+    margin-left: 75px;
+}
+
+.head2 {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: bolder;
+}
+.btn2{
+   
+    height: 48px;
+    width: 200px;
+    color: white;
+    border:3px solid #ffb03b;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-color: transparent;
+}
+.btn3{
+    height: 48px;
+    width: 200px;
+    color: white;
+    border:3px solid #ffb03b;
+    border-radius:20px;
+    background-color: transparent;
+
+}
